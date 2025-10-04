@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Test results
+TestResults/
+coverage.xml
+*.trx
+
+# SQLite databases
+*.db
+*.sqlite
+
+# User settings
+.vscode/
+*.DotSettings.user
